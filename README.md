@@ -1,4 +1,4 @@
-# Predicting-Drill-Time
+# Predicting-Drill-Time (Regression model)
 
 Question and background:
 
