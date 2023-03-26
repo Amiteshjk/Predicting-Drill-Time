@@ -1,5 +1,10 @@
 # Predicting-Drill-Time
 
+Question and background:
+
+In mining engineering, holes are often drilled through rock, using drill bits. As a drill hole gets deeper, additional rods are added to the drill bit to enable additional drilling to take place.  It is expected that drilling time increases with depth. This increased drilling time could be caused by several factors, including the mass of the drill rods that are strung together. The business problem relates to whether drilling is faster using dry drilling holes or wet drilling holes. Data have been collected from a sample of 50 drill holes that contains measurements of the time to drill each additional 5 feet (in minutes), the depth (in feet), and whether the hole was a dry drilling hole or a wet drilling hole. A LR model is created to predict additional drilling time, based on depth and type of drilling hole (dry or wet).
+
+
 Using the drill dataset, predict the drill time and answer following questions.
 
 
