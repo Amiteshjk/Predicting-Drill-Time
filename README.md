@@ -7,6 +7,9 @@ In mining engineering, holes are often drilled through rock, using drill bits. A
 
 Using the drill dataset, predict the drill time and answer following questions.
 
+Code - Drill_MLR.R 
+Dataset - Drill.xlsx
+
 
 a. State the multiple regression equation.
 
